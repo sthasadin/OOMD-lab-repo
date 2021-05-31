@@ -1,0 +1,16 @@
+Software Requirements Specification of Hostel Management System
+
+⦁	Purpose
+To centralize the database and thus provide consistent data to all the employees in the hostel and to make the system more user friendly by providing an intensive user interface.
+⦁	Scope
+This system is designed for maintaining the records in an organized manner and to replace old paperwork system. Modifications can be done easily and all the calculations and accounting work would be accurate.
+⦁	Functional Requirements
+i) Admin can allot different students to the different hostels
+ii) Admin can control the status of the fee payment
+iii) Admin can modify the student records
+iv) Students can lodge a complaint about an issue in room, mess food and hygiene
+v) Mess manager can view the detailed feedback of the students
+⦁	Non-Functional Requirements
+i) Software shall support use of multiple users at a time
+ii) Restrict communications between some areas of the program
+iii) Check data integrity for critical variables

@@ -1,0 +1,22 @@
+Software Requirements Specification
+Purpose
+To automate the Coffee Vending System. We are attempting to improve our
+existing system that runs manually.
+Scope
+It is more efficient and convenient for the customers. It reduces the manpower
+needed to perform the entire coffee vending tasks. Since all the work is done by
+machine, there is less chance of error.
+Functional Requirements
+i) Should provide an appropriate display for the customers to avail the purchase
+ii) Should support the selection of buttons for different types of coffee
+iii) It should have currency detector and money dispenser
+Non-Functional Requirements
+i) The system should be easy to handle
+ii) System should give expected performance result
+iii) Response time should be less
+Coffee Vending Machine Class Diagram describes the structure of a Coffee vending machine
+classes, their attributes, operations and the relationships among objects. The coffee vending
+machine consists of front panel, Cash box, dispenser and mixer. The Customer selects the
+Product by pressing the selector buttons. The customer inserts the coins into coin collector. If
+there is any change, then it will be dispensed through coin dispenser. The coffee will be
+dispensed through product dispenser.

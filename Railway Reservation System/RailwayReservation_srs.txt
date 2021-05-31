@@ -1,0 +1,19 @@
+Software Requirements Specification
+Purpose
+To automate the Railway Reservation System. We are attempting to improve our existing
+system that runs manually.
+Scope
+It is more efficient and convenient for the customers. It reduces the manpower needed to
+perform the entire reservation tasks. Since all the work is done by machine, there is less
+chance of error.
+Functional Requirements
+i) Confirm reservation for seat
+ii) Reservation against cancellations
+iii) Tatkal reservation
+Non-Functional Requirements
+i) The system should be easy to handle
+ii) System should give expected performance result
+iii) Response time should be less
+The commutator goes to a railway station and checks for trains available. The employers there
+get the required details from the commutator and help in booking tickets and processing
+payments for the same.

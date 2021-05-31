@@ -1,0 +1,22 @@
+Software Requirements Specification
+Purpose
+To automate the Online Shopping System. We are attempting to improve our existing
+system that runs manually.
+Scope
+It is more efficient and convenient for the customers. It reduces the manpower needed to
+perform the entire shopping tasks. Since all the work is done by machine, there is less
+chance of error.
+Functional Requirements
+i) Facilitates easy shopping online anywhere with free shipping (conditions apply)
+ii) Provides information about the products in categories
+iii) Provides email facility for future correspondence
+Non-Functional Requirements
+i) The system should be easy to handle
+ii) System should give expected performance result
+iii) Response time should be less
+The Online shopping system class diagram describes the structure of online shopping system
+classes, their attributes, operations and relationship among objects. The online shopping system
+consists of Customer. Web user can become a customer of online shopping system if purchases
+any item from there. Each has a shopping cart where he can store the products, he wishes to buy
+it later. Each customer has an account through which he can place an order and make payment.
+Products can be textile, stationary or daily use types.

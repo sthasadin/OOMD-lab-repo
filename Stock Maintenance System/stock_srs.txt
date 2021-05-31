@@ -1,0 +1,25 @@
+Software Requirements Specifications
+Purpose
+The entire process of Stock maintenance is done in a manual manner. Considering
+the fact that the number of customers for purchase is increasing every year, a
+maintenance system is essential to meet the demand. So this system uses several
+programming and database techniques to reduce the work involved in this process.
+Scope
+The stock maintenance system will allow the employees to record information of
+the items available in the store and generate reports based on the total amount of
+sales. It provides a communication platform between the customer and the sales
+person.
+Functional Requirements
+i) Stock Manager can enter the information of sales, purchase orders and create
+reports.
+ii) The customer can view the availability of the required items and the price of the
+items.
+iii) Stock Manager can add the items and update the database.
+Non-Functional Requirements
+i) The load time for user interface screens will take no longer than two seconds.
+ii) The system should have an availability of 99.99%.
+iii) The system shall be easy to migrate or backed up via another use drive.
+Stock Maintenance System Class Diagram describes the structure of a Stock Maintenance
+System classes, their attributes, operations and the relationships among objects. The customer
+places the order which is supplied by the supplier. The inventory manages the supplier and has
+stocks. The products can be textile and dairy.
